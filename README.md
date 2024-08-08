@@ -177,7 +177,16 @@ The essence of how software automation can empower solo entrepreneurs to streaml
 
 [logo](http://logo.automatyzer.com) - 3 colors logo name: Automatyzer with motto "AI-powered Multitasking Tool"
 
+### Zestaw Kolorów:
 
+Logo:
+**Jasnoczerwony**: Hex: #FF6F61
+**Pomarańczowy**: Hex: #FFA500
+**Zielony**: Hex: #28A745
+
+Czcionka:
+**Jasnoszary (dla czcionki na czarnym tle)**: Hex: #DCDCDC
+**Szary (dla czcionki)**: Hex: #6C757D   
 
 ### Concerns of Solo Entrepreneurs and How Automation Can Help:
 By leveraging automation, solo entrepreneurs can mitigate these common concerns, freeing up valuable time, reducing stress, and enhancing overall efficiency. 
