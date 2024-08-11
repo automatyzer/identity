@@ -23,7 +23,13 @@
 The term "automatyzer" refer to a tool, system, or person that performs automation – the process of making systems or processes operate automatically with minimal human intervention.
 It can be a device or software that automates certain processes or tasks. 
 
-## Contexts:
++ Task
++ Process
++ Service
++ Infrastructure
+
+  
+## Contexts
 
 Given the contexts you provided, "automatyzer" indeed refers to a tool, system, or individual that facilitates automation in various fields. Here's a detailed look at how it applies to each context:
 
